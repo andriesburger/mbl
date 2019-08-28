@@ -1,0 +1,4 @@
+This is the basic reeadme. 
+
+Code uploaded is COBOL and C code to interact between Core banking and the oracle dataabase. Migration is from Oracle 10GR2 to Oracle 12cR2 on AIX 7.2
+and CentOS 7 both PPC and x86_64.
